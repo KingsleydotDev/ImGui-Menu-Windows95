@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{0587d7a3-f2ce-4d56-b84f-a0005d3bfce6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{08e36723-ce4f-4cff-9662-c40801cf1acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui">
+      <UniqueIdentifier>{c3d4e5f6-a7b8-9012-cdef-123456789012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\shell">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\checkbox">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000003}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\button">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\slider">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000004}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\combo">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\color">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\keybind">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\label">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\separator">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\radio">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\progress">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\spin">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\tooltip">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa0000000f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\listbox">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\treenode">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\input">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\msgbox">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000013}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\images">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000014}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\menu">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\toolbar">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\framework\fonts">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-aaaa00000008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages">
+      <UniqueIdentifier>{d4e5f6a7-b8c9-0123-def0-234567890123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\aimbot">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\visuals">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000002}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\world">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\skins">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\players">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\misc">
+      <UniqueIdentifier>{f6a7b8c9-d0e1-2345-f012-456789012345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\pages\config">
+      <UniqueIdentifier>{1f2e3d4c-5b6a-7980-1234-bbbb00000004}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ext\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\imgui\imgui_impl_dx11.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\gui.hpp">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\framework.hpp">
+      <Filter>gui\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\styling.hpp">
+      <Filter>gui\framework</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\shell\shell.hpp">
+      <Filter>gui\framework\shell</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\checkbox\checkbox.hpp">
+      <Filter>gui\framework\checkbox</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\slider\slider.hpp">
+      <Filter>gui\framework\slider</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\combo\combo.hpp">
+      <Filter>gui\framework\combo</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\button\button.hpp">
+      <Filter>gui\framework\button</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\color\color.hpp">
+      <Filter>gui\framework\color</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\keybind\keybind.hpp">
+      <Filter>gui\framework\keybind</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\label\label.hpp">
+      <Filter>gui\framework\label</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\separator\separator.hpp">
+      <Filter>gui\framework\separator</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\radio\radio.hpp">
+      <Filter>gui\framework\radio</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\progress\progress.hpp">
+      <Filter>gui\framework\progress</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\spin\spin.hpp">
+      <Filter>gui\framework\spin</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\tooltip\tooltip.hpp">
+      <Filter>gui\framework\tooltip</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\listbox\listbox.hpp">
+      <Filter>gui\framework\listbox</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\treenode\treenode.hpp">
+      <Filter>gui\framework\treenode</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\input\input.hpp">
+      <Filter>gui\framework\input</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\msgbox\msgbox.hpp">
+      <Filter>gui\framework\msgbox</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\menu\menu.hpp">
+      <Filter>gui\framework\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\toolbar\toolbar.hpp">
+      <Filter>gui\framework\toolbar</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\fonts\fonts.hpp">
+      <Filter>gui\framework\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\framework\images\images.hpp">
+      <Filter>gui\framework\images</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\pages.hpp">
+      <Filter>gui\pages</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\aimbot\aimbot.hpp">
+      <Filter>gui\pages\aimbot</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\visuals\visuals.hpp">
+      <Filter>gui\pages\visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\misc\misc.hpp">
+      <Filter>gui\pages\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\world\world.hpp">
+      <Filter>gui\pages\world</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\skins\skins.hpp">
+      <Filter>gui\pages\skins</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\players\players.hpp">
+      <Filter>gui\pages\players</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\pages\config\config.hpp">
+      <Filter>gui\pages\config</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ext\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ext\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ext\imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ext\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ext\imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ext\imgui\imgui_impl_dx11.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\gui.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\shell\shell.cpp">
+      <Filter>gui\framework\shell</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\checkbox\checkbox.cpp">
+      <Filter>gui\framework\checkbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\slider\slider.cpp">
+      <Filter>gui\framework\slider</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\combo\combo.cpp">
+      <Filter>gui\framework\combo</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\button\button.cpp">
+      <Filter>gui\framework\button</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\color\color.cpp">
+      <Filter>gui\framework\color</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\keybind\keybind.cpp">
+      <Filter>gui\framework\keybind</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\label\label.cpp">
+      <Filter>gui\framework\label</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\separator\separator.cpp">
+      <Filter>gui\framework\separator</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\radio\radio.cpp">
+      <Filter>gui\framework\radio</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\progress\progress.cpp">
+      <Filter>gui\framework\progress</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\spin\spin.cpp">
+      <Filter>gui\framework\spin</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\tooltip\tooltip.cpp">
+      <Filter>gui\framework\tooltip</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\listbox\listbox.cpp">
+      <Filter>gui\framework\listbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\treenode\treenode.cpp">
+      <Filter>gui\framework\treenode</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\input\input.cpp">
+      <Filter>gui\framework\input</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\msgbox\msgbox.cpp">
+      <Filter>gui\framework\msgbox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\menu\menu.cpp">
+      <Filter>gui\framework\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\toolbar\toolbar.cpp">
+      <Filter>gui\framework\toolbar</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\fonts\fonts.cpp">
+      <Filter>gui\framework\fonts</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\images\images.cpp">
+      <Filter>gui\framework\images</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\framework\images\icon.c">
+      <Filter>gui\framework\images</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\tabs.cpp">
+      <Filter>gui\pages</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\aimbot\aimbot.cpp">
+      <Filter>gui\pages\aimbot</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\visuals\visuals.cpp">
+      <Filter>gui\pages\visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\misc\misc.cpp">
+      <Filter>gui\pages\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\world\world.cpp">
+      <Filter>gui\pages\world</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\skins\skins.cpp">
+      <Filter>gui\pages\skins</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\players\players.cpp">
+      <Filter>gui\pages\players</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\pages\config\config.cpp">
+      <Filter>gui\pages\config</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
